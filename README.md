@@ -1,5 +1,11 @@
-# Stickynote
-this is my first Program that vibe code
-this is Sticky note that can always top on desktop
-I create this because I got to record video but I can't remember the script
-then this program that can type and edit size and color
+# 📝 Sticky Note - Always on Top
+**Sticky Note** floating note that help user who can't remember the script
+## ✨ Key Features
+* 📌 **Always on Top:** 
+* 💾 **Auto Save:**
+* 🎨 **Customizable:**
+    * Change Background color, Foreground color
+    * Font and text size
+    * text Alignment L = Left, C = Center, R = Right
+* ⌨️ **Keyboard Shortcuts:** Ctrl+C, Ctrl+V, Ctrl+A, Ctrl+Z
+* 📏 **Resizable:**
